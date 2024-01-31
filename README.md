@@ -1,3 +1,3 @@
 # Todo
 Learning and practices \n
-** Checking Font **
+**Checking Font**
